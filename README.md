@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peebscollier
 - 👀 I’m interested in UXUI design, web development and conversation design
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning CSS and have a basic understanding of python
 - 💞️ I’m looking to collaborate on using game and app infrastructure to make innovative comedy
 - 📫 Reach me on insta poppycollier_uxui
 
